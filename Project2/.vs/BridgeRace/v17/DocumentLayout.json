@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UNITY project\\BridgeRace\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{722F92F5-9520-D266-F2B4-E22CF5FE7E9D}|Assembly-CSharp.csproj|D:\\UNITY project\\BridgeRace\\assets\\_game\\scripts\\bot\\botcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{722F92F5-9520-D266-F2B4-E22CF5FE7E9D}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\bot\\botcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Git\\BrickBlast\\Script\\Player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{722F92F5-9520-D266-F2B4-E22CF5FE7E9D}|Assembly-CSharp.csproj|D:\\UNITY project\\BridgeRace\\assets\\_game\\scripts\\bot\\collectbrickstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{722F92F5-9520-D266-F2B4-E22CF5FE7E9D}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\bot\\collectbrickstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{722F92F5-9520-D266-F2B4-E22CF5FE7E9D}|Assembly-CSharp.csproj|D:\\UNITY project\\BridgeRace\\assets\\_game\\scripts\\bot\\idlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{722F92F5-9520-D266-F2B4-E22CF5FE7E9D}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\bot\\idlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{722F92F5-9520-D266-F2B4-E22CF5FE7E9D}|Assembly-CSharp.csproj|d:\\unity project\\bridgerace\\assets\\_game\\scripts\\bot\\botstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{722F92F5-9520-D266-F2B4-E22CF5FE7E9D}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\bot\\botstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{722F92F5-9520-D266-F2B4-E22CF5FE7E9D}|Assembly-CSharp.csproj|D:\\UNITY project\\BridgeRace\\assets\\_game\\scripts\\bot\\buildstairstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{722F92F5-9520-D266-F2B4-E22CF5FE7E9D}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\bot\\buildstairstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\Git\\BrickBlast\\Script\\Player.cs",
+              "RelativeDocumentMoniker": "..\\..\\Git\\BrickBlast\\Script\\Player.cs",
+              "ToolTip": "D:\\Git\\BrickBlast\\Script\\Player.cs",
+              "RelativeToolTip": "..\\..\\Git\\BrickBlast\\Script\\Player.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T04:13:06.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BotController.cs",
+              "DocumentMoniker": "D:\\UNITY project\\BridgeRace\\Assets\\_Game\\Scripts\\Bot\\BotController.cs",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\Bot\\BotController.cs",
+              "ToolTip": "D:\\UNITY project\\BridgeRace\\Assets\\_Game\\Scripts\\Bot\\BotController.cs",
+              "RelativeToolTip": "Assets\\_Game\\Scripts\\Bot\\BotController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T08:41:56.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BotState.cs",
+              "DocumentMoniker": "D:\\UNITY project\\BridgeRace\\Assets\\_Game\\Scripts\\Bot\\BotState.cs",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\Bot\\BotState.cs",
+              "ToolTip": "D:\\UNITY project\\BridgeRace\\Assets\\_Game\\Scripts\\Bot\\BotState.cs",
+              "RelativeToolTip": "Assets\\_Game\\Scripts\\Bot\\BotState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T07:33:59.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IdleState.cs",
+              "DocumentMoniker": "D:\\UNITY project\\BridgeRace\\Assets\\_Game\\Scripts\\Bot\\IdleState.cs",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\Bot\\IdleState.cs",
+              "ToolTip": "D:\\UNITY project\\BridgeRace\\Assets\\_Game\\Scripts\\Bot\\IdleState.cs",
+              "RelativeToolTip": "Assets\\_Game\\Scripts\\Bot\\IdleState.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T07:33:43.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CollectBrickState.cs",
+              "DocumentMoniker": "D:\\UNITY project\\BridgeRace\\Assets\\_Game\\Scripts\\Bot\\CollectBrickState.cs",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\Bot\\CollectBrickState.cs",
+              "ToolTip": "D:\\UNITY project\\BridgeRace\\Assets\\_Game\\Scripts\\Bot\\CollectBrickState.cs",
+              "RelativeToolTip": "Assets\\_Game\\Scripts\\Bot\\CollectBrickState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T07:33:38.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BuildStairState.cs",
+              "DocumentMoniker": "D:\\UNITY project\\BridgeRace\\Assets\\_Game\\Scripts\\Bot\\BuildStairState.cs",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\Bot\\BuildStairState.cs",
+              "ToolTip": "D:\\UNITY project\\BridgeRace\\Assets\\_Game\\Scripts\\Bot\\BuildStairState.cs",
+              "RelativeToolTip": "Assets\\_Game\\Scripts\\Bot\\BuildStairState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T07:33:26.089Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

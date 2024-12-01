@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UNITY project\\MoveStopMove\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0CB94B-09BB-5963-F915-6F958A0D13ED}|Assembly-CSharp.csproj|D:\\UNITY project\\MoveStopMove\\assets\\_game\\scripts\\bot\\bot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C0CB94B-09BB-5963-F915-6F958A0D13ED}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\bot\\bot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0CB94B-09BB-5963-F915-6F958A0D13ED}|Assembly-CSharp.csproj|D:\\UNITY project\\MoveStopMove\\assets\\_game\\scripts\\bot\\attackstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C0CB94B-09BB-5963-F915-6F958A0D13ED}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\bot\\attackstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0CB94B-09BB-5963-F915-6F958A0D13ED}|Assembly-CSharp.csproj|D:\\UNITY project\\MoveStopMove\\assets\\_game\\scripts\\pool\\gameunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C0CB94B-09BB-5963-F915-6F958A0D13ED}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\pool\\gameunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0CB94B-09BB-5963-F915-6F958A0D13ED}|Assembly-CSharp.csproj|d:\\unity project\\movestopmove\\assets\\_game\\scripts\\bot\\findstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C0CB94B-09BB-5963-F915-6F958A0D13ED}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\bot\\findstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0CB94B-09BB-5963-F915-6F958A0D13ED}|Assembly-CSharp.csproj|D:\\UNITY project\\MoveStopMove\\assets\\_game\\scripts\\weapon\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C0CB94B-09BB-5963-F915-6F958A0D13ED}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\weapon\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0CB94B-09BB-5963-F915-6F958A0D13ED}|Assembly-CSharp.csproj|D:\\UNITY project\\MoveStopMove\\assets\\_game\\scripts\\bot\\idlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C0CB94B-09BB-5963-F915-6F958A0D13ED}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\bot\\idlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bot.cs",
+              "DocumentMoniker": "D:\\UNITY project\\MoveStopMove\\Assets\\_Game\\Scripts\\Bot\\Bot.cs",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\Bot\\Bot.cs",
+              "ToolTip": "D:\\UNITY project\\MoveStopMove\\Assets\\_Game\\Scripts\\Bot\\Bot.cs",
+              "RelativeToolTip": "Assets\\_Game\\Scripts\\Bot\\Bot.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAuwGIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T11:42:50.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameUnit.cs",
+              "DocumentMoniker": "D:\\UNITY project\\MoveStopMove\\Assets\\_Game\\Scripts\\Pool\\GameUnit.cs",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\Pool\\GameUnit.cs",
+              "ToolTip": "D:\\UNITY project\\MoveStopMove\\Assets\\_Game\\Scripts\\Pool\\GameUnit.cs",
+              "RelativeToolTip": "Assets\\_Game\\Scripts\\Pool\\GameUnit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T03:18:28.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "D:\\UNITY project\\MoveStopMove\\Assets\\_Game\\Scripts\\Weapon\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\Weapon\\Bullet.cs",
+              "ToolTip": "D:\\UNITY project\\MoveStopMove\\Assets\\_Game\\Scripts\\Weapon\\Bullet.cs",
+              "RelativeToolTip": "Assets\\_Game\\Scripts\\Weapon\\Bullet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T09:01:07.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FindState.cs",
+              "DocumentMoniker": "D:\\UNITY project\\MoveStopMove\\Assets\\_Game\\Scripts\\Bot\\FindState.cs",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\Bot\\FindState.cs",
+              "ToolTip": "D:\\UNITY project\\MoveStopMove\\Assets\\_Game\\Scripts\\Bot\\FindState.cs",
+              "RelativeToolTip": "Assets\\_Game\\Scripts\\Bot\\FindState.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwCQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T11:45:33.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IdleState.cs",
+              "DocumentMoniker": "D:\\UNITY project\\MoveStopMove\\Assets\\_Game\\Scripts\\Bot\\IdleState.cs",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\Bot\\IdleState.cs",
+              "ToolTip": "D:\\UNITY project\\MoveStopMove\\Assets\\_Game\\Scripts\\Bot\\IdleState.cs",
+              "RelativeToolTip": "Assets\\_Game\\Scripts\\Bot\\IdleState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T02:24:49.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AttackState.cs",
+              "DocumentMoniker": "D:\\UNITY project\\MoveStopMove\\Assets\\_Game\\Scripts\\Bot\\AttackState.cs",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\Bot\\AttackState.cs",
+              "ToolTip": "D:\\UNITY project\\MoveStopMove\\Assets\\_Game\\Scripts\\Bot\\AttackState.cs",
+              "RelativeToolTip": "Assets\\_Game\\Scripts\\Bot\\AttackState.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T03:44:35.354Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
